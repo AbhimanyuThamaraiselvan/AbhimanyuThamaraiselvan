@@ -8,4 +8,5 @@ cd foldername
 open foldername
 check version
 open github.com
-copy url
+copy urlgit add
+line addedgit add . github1.md
