@@ -10,3 +10,5 @@ check version
 open github.com
 copy urlgit add
 line addedgit add . github1.md
+add
+include
