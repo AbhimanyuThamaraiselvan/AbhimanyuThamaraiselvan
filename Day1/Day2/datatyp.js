@@ -1,2 +1,6 @@
-console.log(6, typeof(6));
-console.log('HELLO WORLD', typeof('HELLO WORLD'));
+
+
+let person = { name: "John", age:45};
+let person2 = person;
+person.name="Abhi"
+console.log(person,person2);
