@@ -16,7 +16,11 @@ let numbers = [1,2,8,7,5,4,9];
    // console.log(numbers[index])
  //}
 
- for(let index of numbers)
- {
-    console.log(index)
- }
+ //for(let index of numbers)
+ //{
+   // console.log(index)
+ //}
+
+ numbers.forEach((value ) => {
+    console.log(value);
+ });
